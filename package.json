@@ -1,0 +1,14 @@
+{
+    "name": "md11_jest",
+    "version": "1.0.0",
+    "description": "jest tests md11_SF_task",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "TSM",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
